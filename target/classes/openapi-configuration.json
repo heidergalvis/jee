@@ -1,0 +1,27 @@
+{
+  "resourcePackages": [
+    "com.heider.rest"
+  ],
+  "prettyPrint": true,
+  "openAPI": {
+    "info": {
+      "version": "1.0",
+      "title": "Swagger ACCE Sample App",
+      "description": "This is a sample server ACCE server.",
+      "termsOfService": "http://swagger.io/terms/",
+      "contact": {
+        "email": "apiteam@swagger.io"
+      },
+      "license": {
+        "name": "Apache 2.0",
+        "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+      }
+    },
+    "servers": [
+      {
+        "url": "http://127.0.0.1:8080/javaee7/rest",
+        "description": "Local server"
+      }
+    ]
+  }
+}

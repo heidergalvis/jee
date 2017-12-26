@@ -1,0 +1,7 @@
+
+Rsquid:UselessImportCheck"0Remove this unused import 'javax.ejb.Stateless'.(ä¬
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼ğŠê
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(åÖ÷ÿÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŠÙˆçûÿÿÿÿ

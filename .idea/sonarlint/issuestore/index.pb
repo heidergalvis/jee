@@ -1,0 +1,27 @@
+
+i
+9src/main/java/com/heider/utility/JsonSchemaValidator.java,e/d/ed3d2547004031d0f3fde3c15c2e499adf123b0c
+h
+8src/test/java/com/heider/utility/JsonSchemaOCDSTest.java,5/8/582a207621714ea0bccceb8457d3fdd35e312a8f
+f
+6src/main/webapp/WEB-INF/jboss-deployment-structure.xml,f/7/f78850881148585be3c5c9bffb794e2b5aa07e52
+d
+4src/main/java/com/heider/config/ApiOriginFilter.java,6/4/64168760ba416e617c24976ba22bad9e4a87a23e
+O
+src/main/webapp/WEB-INF/web.xml,2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+k
+;src/test/java/com/heider/service/CalculatorServiceTest.java,b/7/b7ef09bfdf5702ddc3c1bc99a6a7cf7e26521425
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+^
+.src/main/java/com/heider/rest/OcdsService.java,a/7/a77b4a8ebe66d83b82f0649e70ce41982f0ad83c
+Q
+!src/main/webapp/WEB-INF/beans.xml,8/3/83008b1a88ba03a2548bb5b9ad0768c6c307d36c
+g
+7src/main/java/com/heider/service/CalculatorService.java,3/9/395769bc04f6c8a38fd689a4beb67d825a32337e
+\
+,src/main/java/com/heider/dao/GenericDAO.java,2/e/2e73acd20a9b7d53ad333b71b984d9a06d2778c8
+\
+,src/main/java/com/heider/rest/HelloRest.java,0/0/0009a66b5e66d4bfbc0889756cc4ca6a9581251a
+V
+&src/main/java/com/heider/dto/City.java,5/1/51715f89794a2f5f63998f0d3ac8af3c59af3116
